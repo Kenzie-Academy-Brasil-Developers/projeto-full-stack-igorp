@@ -80,7 +80,7 @@ Rode primeiro a API para não haver conflito de portaria, após o servidor estiv
     npm run test
     ```
 
-### Testes manuais de rotas
+### Testes das rotas
 
 1. Abra o Insomnia e crie uma nova coleção importando o `workspace.json` que está na raiz do projeto.
 
