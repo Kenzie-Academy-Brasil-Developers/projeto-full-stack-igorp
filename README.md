@@ -68,10 +68,10 @@ Rode primeiro a API para não haver conflito de portaria, após o servidor estiv
 
 ### Testes automáticos de relacionamento de tabelas
 
-1. Abra o terminal e acesse a pasta `back`:
+1. Abra o terminal e acesse a pasta `backend`:
 
     ```bash
-    cd back
+    cd backend
     ```
 
 2. Execute os testes:
@@ -84,7 +84,7 @@ Rode primeiro a API para não haver conflito de portaria, após o servidor estiv
 
 1. Abra o Insomnia e crie uma nova coleção importando o `workspace.json` que está na raiz do projeto.
 
-2. Acesse a coleção `testes`.
+2. Acesse a coleção `Testes`.
 
 3. No VS Code, pelo terminal, acesse a pasta `backend`:
 
